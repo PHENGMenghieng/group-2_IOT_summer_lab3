@@ -1,8 +1,11 @@
 # group-2_IOT_summer_lab3
-lab3
+
+LAB3 LAB3
 
 
-1: Boot Up & Pin Init
+Explanations:
+
+1: Boot Up
 ESP32 powers on and prints the Blynk logo to the serial terminal.
 Configures IR pin (D14) as input, Servo pin (D13) as PWM, and TM1637 (D16, D17) for the display.
 Forces servo to 0 degree (Gate Closed) and sets the display to 0.
